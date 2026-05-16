@@ -15,8 +15,14 @@ article {
   margin: 8px;
 }
 
+
 article button {
   margin: 0px 2px;
+}
+
+article img {
+  width: 100%;
+  height: auto;
 }
 
 main {
